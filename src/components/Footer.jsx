@@ -27,13 +27,13 @@ export default function Footer() {
           </span>
           <span className="hidden sm:inline text-luxury-gold/40">•</span>
           <a 
-            href="https://wa.me/971500000000" 
+            href="https://wa.me/917994729412" 
             target="_blank" 
             rel="noreferrer"
             className="flex items-center gap-1.5 hover:text-luxury-gold transition-colors"
           >
             <Phone className="w-3.5 h-3.5 text-luxury-gold" />
-            Concierge: +971 (02) 800-ORANGE
+            Concierge & WhatsApp: +91 79947 29412
           </a>
         </div>
 

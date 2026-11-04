@@ -165,7 +165,7 @@ export default function Shop() {
             Our Abu Dhabi master floral designers create custom floral compositions tailored to your residence, event, or corporate headquarters.
           </p>
           <a
-            href="https://wa.me/971500000000?text=Hello%20Orange%20Flowers%20Abu%20Dhabi%2C%20I%20would%20like%20to%20discuss%20a%20bespoke%20floral%20arrangement."
+            href="https://wa.me/917994729412?text=Hello%20Orange%20Flowers%20Abu%20Dhabi%2C%20I%20would%20like%20to%20discuss%20a%20bespoke%20floral%20arrangement."
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-luxury-dark hover:bg-luxury-orange text-white text-xs uppercase tracking-[0.2em] font-medium rounded-sm transition-colors"

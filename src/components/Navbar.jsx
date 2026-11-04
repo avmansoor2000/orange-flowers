@@ -183,13 +183,13 @@ export default function Navbar() {
                 <span>The Galleria, Al Maryah Island, Abu Dhabi</span>
               </div>
               <a 
-                href="https://wa.me/971500000000"
+                href="https://wa.me/917994729412"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-2 text-luxury-dark hover:text-luxury-orange transition-colors"
               >
                 <Phone className="w-3.5 h-3.5 text-luxury-gold flex-shrink-0" />
-                <span>VIP Concierge: +971 (02) 800-ORANGE</span>
+                <span>WhatsApp Concierge: +91 79947 29412</span>
               </a>
             </div>
 

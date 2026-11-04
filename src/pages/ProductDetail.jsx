@@ -255,7 +255,7 @@ export default function ProductDetail({ defaultId = "1" }) {
 
               {/* WhatsApp VIP Concierge Action */}
               <a
-                href={`https://wa.me/971500000000?text=Hello%20Orange%20Flowers%20Abu%20Dhabi%2C%20I%20am%20interested%20in%20ordering%20the%20${encodeURIComponent(product.name)}%20(${product.price}%20AED).%20Please%20advise%20on%20same-day%20delivery.`}
+                href={`https://wa.me/917994729412?text=Hello%20Orange%20Flowers%20Abu%20Dhabi%2C%20I%20am%20interested%20in%20ordering%20the%20${encodeURIComponent(product.name)}%20(${product.price}%20AED).%20Please%20advise%20on%20same-day%20delivery.`}
                 target="_blank"
                 rel="noreferrer"
                 className="w-full py-3.5 border border-luxury-dark/30 hover:border-luxury-dark bg-white hover:bg-luxury-sand/30 text-luxury-dark text-xs font-semibold uppercase tracking-[0.18em] rounded-sm transition-all flex items-center justify-center gap-2"

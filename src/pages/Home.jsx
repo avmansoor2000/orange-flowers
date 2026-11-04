@@ -169,7 +169,7 @@ export default function Home() {
 
               <div className="pt-2">
                 <a
-                  href="https://wa.me/971500000000"
+                  href="https://wa.me/917994729412?text=Hello%20Orange%20Flowers%2C%20I%20would%20like%20to%20request%20custom%20majlis%20styling."
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.2em] text-luxury-dark hover:text-luxury-orange border-b border-luxury-dark hover:border-luxury-orange pb-1 transition-all"

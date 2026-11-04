@@ -131,9 +131,9 @@ export default function Contact() {
                 <div className="flex items-center gap-3">
                   <Phone className="w-4 h-4 text-luxury-gold flex-shrink-0" />
                   <div>
-                    <span className="text-[10px] uppercase tracking-wider text-luxury-muted block">Direct Phone</span>
-                    <a href="tel:+9712800ORANGE" className="font-semibold text-luxury-dark hover:text-luxury-orange transition-colors">
-                      +971 (02) 800-ORANGE
+                    <span className="text-[10px] uppercase tracking-wider text-luxury-muted block">Direct Phone & WhatsApp</span>
+                    <a href="tel:+917994729412" className="font-semibold text-luxury-dark hover:text-luxury-orange transition-colors">
+                      +91 79947 29412
                     </a>
                   </div>
                 </div>
@@ -152,7 +152,7 @@ export default function Contact() {
               {/* Instant WhatsApp Priority Button */}
               <div className="pt-2">
                 <a
-                  href={`https://wa.me/971500000000?text=${generateWhatsAppInquiry()}`}
+                  href={`https://wa.me/917994729412?text=${generateWhatsAppInquiry()}`}
                   target="_blank"
                   rel="noreferrer"
                   className="w-full py-3.5 bg-emerald-700 hover:bg-emerald-800 text-white text-xs font-semibold uppercase tracking-[0.18em] rounded-sm transition-all flex items-center justify-center gap-2 shadow-sm"

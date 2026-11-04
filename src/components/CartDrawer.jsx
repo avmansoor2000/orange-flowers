@@ -307,7 +307,7 @@ export default function CartDrawer() {
 
                 {/* Direct WhatsApp Concierge Order Option */}
                 <a
-                  href={`https://wa.me/971500000000?text=${generateWhatsAppMessage()}`}
+                  href={`https://wa.me/917994729412?text=${generateWhatsAppMessage()}`}
                   target="_blank"
                   rel="noreferrer"
                   className="w-full py-2.5 border border-emerald-600/60 hover:border-emerald-600 text-emerald-800 bg-emerald-50/50 hover:bg-emerald-50 text-xs font-medium uppercase tracking-[0.16em] rounded-sm transition-colors flex items-center justify-center gap-2"

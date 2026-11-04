@@ -59,7 +59,7 @@ export default function Hero({ onExploreClick }) {
             </button>
 
             <a
-              href="https://wa.me/971500000000?text=Hello%20Orange%20Flowers%2C%20I%20would%20like%20to%20inquire%20about%20a%20custom%20bespoke%20arrangement."
+              href="https://wa.me/917994729412?text=Hello%20Orange%20Flowers%2C%20I%20would%20like%20to%20inquire%20about%20a%20custom%20bespoke%20arrangement."
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center px-7 py-4 border border-luxury-gold/50 hover:border-luxury-gold text-luxury-cream hover:text-white hover:bg-white/5 font-medium text-xs uppercase tracking-[0.2em] rounded-sm transition-all"
