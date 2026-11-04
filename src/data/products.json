@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "The Royal Sunset Orchids & Garden Roses",
+    "tagline": "Signature Atelier Arrangement",
+    "category": "Signature Bouquets",
+    "price": 650,
+    "originalPrice": 750,
+    "isBestseller": true,
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "image": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1508610048659-a06b669e3321?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "An opulent architectural arrangement inspired by the golden hour over the Abu Dhabi Corniche. Features rare peach Cymbidium orchids, flame-hued Ecuadorian garden roses, ranunculus, and sunburst chrysanthemums presented in a custom ribbed matte ceramic vessel.",
+    "stems": "32 Premium Stems",
+    "dimensions": "65cm H x 50cm W",
+    "origin": "Flown in directly from Holland & Ecuador",
+    "includes": "Handcrafted matte ceramic vase, signature satin ribbon, handwritten gold-foiled note card, flower food sachet"
+  },
+  {
+    "id": 2,
+    "name": "Emirates Sovereign Velvet Roses",
+    "tagline": "Fifty Grand Stem Ecuadorian Roses",
+    "category": "Royal Arrangements",
+    "price": 980,
+    "originalPrice": 1150,
+    "isBestseller": true,
+    "rating": 5.0,
+    "reviewsCount": 72,
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "The quintessential statement of regal elegance. Fifty hand-graded, long-stemmed Ecuadorian velvet roses in deep terracotta, crimson, and golden amber. Hand-tied with double-faced Italian silk ribbon and delivered in our signature Abu Dhabi luxury embossed hatbox.",
+    "stems": "50 Long Stems",
+    "dimensions": "70cm H x 55cm W",
+    "origin": "Cotopaxi High Altitude Volcanic Soil, Ecuador",
+    "includes": "Signature luxury embossed cylindrical hatbox, bespoke wax-sealed calligraphy message, floral preservative"
+  },
+  {
+    "id": 3,
+    "name": "Saadiyat Dawn Peonies & Cream Lilies",
+    "tagline": "Delicate Pastel Harmony",
+    "category": "Signature Bouquets",
+    "price": 720,
+    "originalPrice": 820,
+    "isBestseller": false,
+    "rating": 4.8,
+    "reviewsCount": 31,
+    "image": "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Inspired by the serene morning light reflecting off the turquoise shores of Saadiyat Island. Layers of Dutch Sarah Bernhardt peonies, fragrant Casablanca lilies, apricot lisianthus, and silver-dollar eucalyptus in an alabaster fluted vase.",
+    "stems": "28 Fresh Stems",
+    "dimensions": "55cm H x 45cm W",
+    "origin": "Aalsmeer Flower Auction, Netherlands",
+    "includes": "Fluted alabaster glass vessel, hand-dipped beeswax seal, custom note card"
+  },
+  {
+    "id": 4,
+    "name": "Desert Amber Preserved Botanical",
+    "tagline": "Everlasting Luxury Arrangement",
+    "category": "Preserved & Dried",
+    "price": 540,
+    "originalPrice": 620,
+    "isBestseller": false,
+    "rating": 4.9,
+    "reviewsCount": 19,
+    "image": "https://images.unsplash.com/photo-1533616688419-b7a585564566?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1533616688419-b7a585564566?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1509223197845-458d87318791?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Preserved to retain their exquisite organic texture and radiant warmth for up to 3 years without water. Features preserved Tuscan garden roses, golden pampas grass, ruscus, and bleached Italian foliage set in a raw travertine stone base.",
+    "stems": "Everlasting Botanicals",
+    "dimensions": "60cm H x 40cm W",
+    "origin": "Tuscan Botanical Preserves, Italy",
+    "includes": "Sculptural travertine stone urn, 3-year guarantee certificate, gift presentation packaging"
+  },
+  {
+    "id": 5,
+    "name": "The Al Maryah Grand Centerpiece",
+    "tagline": "Architectural Banquet Showcase",
+    "category": "Grand Vases",
+    "price": 1450,
+    "originalPrice": 1680,
+    "isBestseller": true,
+    "rating": 5.0,
+    "reviewsCount": 56,
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1519378058457-4c29a0a2efac?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Designed specifically for prominent majlis tables, grand dining salons, and executive penthouses. An extravagant 360-degree display of burnt orange calla lilies, coral amaryllis, Dutch delphinium, and cascades of imported hanging amaranthus.",
+    "stems": "65 Exclusive Blooms",
+    "dimensions": "85cm H x 75cm W",
+    "origin": "Direct from Dutch & Italian Master Growers",
+    "includes": "Heavy hammered brushed-brass pedestal vase, white-glove setup on delivery, personalized card"
+  },
+  {
+    "id": 6,
+    "name": "Yas Mirage Coral Ranunculus",
+    "tagline": "Textured Spring Petals",
+    "category": "Signature Bouquets",
+    "price": 480,
+    "originalPrice": 540,
+    "isBestseller": false,
+    "rating": 4.7,
+    "reviewsCount": 27,
+    "image": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1508610048659-a06b669e3321?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "Richly ruffled Clooni Ranunculus from the Sanremo Riviera paired with burnt amber spray roses and fragrant French sweet peas. A joyful, tactile arrangement that brings effortless warmth to bedside tables and intimate consoles.",
+    "stems": "24 Multi-petal Stems",
+    "dimensions": "45cm H x 35cm W",
+    "origin": "Riviera dei Fiori, Sanremo, Italy",
+    "includes": "Smoked amber glass vase, signature embossed ribbon, personalized gift card"
+  },
+  {
+    "id": 7,
+    "name": "Al Bateen Gold Calla Lilies & Tulips",
+    "tagline": "Minimalist Sculptural Splendor",
+    "category": "Grand Vases",
+    "price": 620,
+    "originalPrice": 690,
+    "isBestseller": false,
+    "rating": 4.9,
+    "reviewsCount": 38,
+    "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "A masterclass in modern floral architecture. Twenty golden yellow Dutch Calla Lilies and French parrot tulips arranged with bent monstera foliage in a tall cylindrical smoked glass urn. Sleek, confident, and timeless.",
+    "stems": "26 Clean Architectural Stems",
+    "dimensions": "75cm H x 38cm W",
+    "origin": "Noordwijkerhout, Netherlands",
+    "includes": "Architectural smoked glass column vase, floral hydration kit, handwritten gift card"
+  },
+  {
+    "id": 8,
+    "name": "Qasr Al Sarab Sunset Protea & Wild Orchids",
+    "tagline": "Desert Exotic Masterpiece",
+    "category": "Royal Arrangements",
+    "price": 1150,
+    "originalPrice": 1300,
+    "isBestseller": true,
+    "rating": 5.0,
+    "reviewsCount": 44,
+    "image": "https://images.unsplash.com/photo-1508610048659-a06b669e3321?auto=format&fit=crop&w=1000&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1508610048659-a06b669e3321?auto=format&fit=crop&w=1000&q=80",
+      "https://images.unsplash.com/photo-1561181286-d3fee7d55364?auto=format&fit=crop&w=1000&q=80"
+    ],
+    "description": "An evocative tribute to the majestic Liwa desert dunes. King Proteas from South Africa, deep amber Mokara orchids, terracotta garden roses, and dried date palm sprigs created for the discerning art collector.",
+    "stems": "38 Exotic Stems",
+    "dimensions": "80cm H x 60cm W",
+    "origin": "Cape Floral Kingdom, South Africa & Thailand",
+    "includes": "Hand-thrown terracotta and gold-leaf vessel, velvet ribbon, Abu Dhabi boutique presentation box"
+  }
+]
+
